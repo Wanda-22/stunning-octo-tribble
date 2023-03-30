@@ -1,0 +1,30 @@
+body{
+    background-size: cover;
+    border: 10px groove goldenrod;
+    color: aliceblue;
+}
+#name{
+    background-color: #D65076;
+    font-size: 60px;
+    border: 9px groove silver;
+}
+#cd{
+    float: right;
+    bottom: 0;
+    height: 250px;
+    border-radius: 200px;
+    position: fixed;
+    background-color: blue;
+    color: cornsilk;
+    line-height: 2;
+}
+button{
+    background-color: darkblue;
+    font-size: 30px;
+    font-family: monospace;
+}
+canvas{
+    border: dotted deeppink;
+    border-radius: 60px;
+    box-shadow: 15px 15px 15px deeppink;
+}
